@@ -1,0 +1,645 @@
+: 1469154826:0;startx && vlc
+: 1469154858:0;export DISPLAY=:1
+: 1469154881:0;export DISPLAY=:0
+: 1469154882:0;vlc
+: 1469168303:0;cd code/dwm
+: 1469168321:0;makepkg
+: 1469168326:0;makepkg -f
+: 1469168358:0;bg urxvt
+: 1469168508:0;vim dwm.c
+: 1469168579:0;cp config.h src/config.h
+: 1469168593:0;cp config.h src/dwm-6.0/config.h
+: 1469168657:0;detach urxvt
+: 1469168772:0;makepkg -f --skipinteg
+: 1469168833:0;vim src/dwm-6.0/dwm.c
+: 1469168957:0;vim PKGBUILD
+: 1469169032:0;cd src
+: 1469169043:0;cd dwm-6.0
+: 1469169050:0;cp dwm ~/dwm
+: 1469169053:0;ls bin
+: 1469169073:0;ls etc
+: 1469169289:0;ls /usr
+: 1469169292:0;ls /usr/bin
+: 1469169311:0;/usr/bin/dwm --help
+: 1469169314:0;/usr/bin/dwm -v
+: 1469169318:0;~/dwm -v
+: 1469169330:0;:q
+: 1469169369:0;vim log/dwm.log
+: 1469169378:0;pkill X
+: 1469169423:0;dwmst
+: 1469169703:0;cp dwm bin/dwm
+: 1469169722:0;cp dwm iso/dwm
+: 1469169725:0;ls iso
+: 1469169734:0;vim config.h
+: 1469169901:0;\
+
+: 1469169927:0;ls -l
+: 1469169942:0;sxiv Untitled.png
+: 1469169955:0;mv Untitled.png images/Perihelion.png
+: 1469169958:0;cd images
+: 1469170184:0;lls
+: 1469170188:0;cd edit
+: 1469170267:0;cd scrots
+: 1469170272:0;cd gondor
+: 1469170303:0;cd scan
+: 1469170309:0;cd walls
+: 1469170320:0;sxiv SSG1\ Vegeta\ 2.png
+: 1469170329:0;sxiv perihelion.png
+: 1469170341:0;cd down
+: 1469170359:0;vlc 03.wmv
+: 1469170379:0;vlc 03\ \(1\).wmv
+: 1469170407:0;vlc 04.wmv
+: 1469170413:0;vlc 04\ \(1\).wmv
+: 1469170447:0;vlc 02.wmv
+: 1469170457:0;vlc 02\ \(1\).wmv
+: 1469170476:0;sc ledger.sc
+: 1469170485:0;cd srv
+: 1469170493:0;cd video
+: 1469170502:0;vlc clip103.mp4
+: 1469170520:0;rm -rf clip103.mp4
+: 1469170535:0;cd -
+: 1469170541:0;lsa
+: 1469170542:0;la
+: 1469170547:0;cd .popcorn
+: 1469170556:0;vlc best.wmv
+: 1469170572:0;vlc 3\ \(5\).wmv
+: 1469170593:0;vlc 1429951948206.webm
+: 1469170629:0;vlc 1429952060449.webm
+: 1469170650:0;vlc 1430003913307.webm
+: 1469170661:0;vlc 1.avi
+: 1469170822:0;cvlc 04\ \(3\).wmv
+: 1469170840:0;cd ../..
+: 1469170844:0;cd roosters\ nest
+: 1469170852:0;sxiv *
+: 1469170879:0;cd iPod
+: 1469170879:0;ls
+: 1469170882:0;ls -la
+: 1469170885:0;cd ..
+: 1469170888:0;rm -rf iPod
+: 1469170904:0;vim Transactions
+: 1469170913:0;sc Transactions
+: 1469170924:0;rm dwm
+: 1469170931:0;vim etc/X11/xinitrc
+: 1469170946:0;startx
+: 1469170953:0;zcl
+: 1469170954:0;cd
+: 1469170957:0;logout
+: 1469170963:0;ls
+: 1469170971:0;ls code
+: 1469171012:0;cd code/
+: 1469171013:0;ls
+: 1469171015:0;cd cs
+: 1469171016:0;ls
+: 1469171021:0;cd sysctl
+: 1469171022:0;ls
+: 1469171140:0;cd ..
+: 1469171141:0;ls
+: 1469171144:0;cd ..
+: 1469171145:0;ls
+: 1469171147:0;cd bar
+: 1469171148:0;ls
+: 1469171155:0;vim palette.pl
+: 1469171161:0;cd ..
+: 1469171162:0;ls
+: 1469171168:0;cd c
+: 1469171169:0;ls
+: 1469171174:0;cd ..
+: 1469171177:0;ls
+: 1469171180:0;cd bin
+: 1469171180:0;ls
+: 1469171186:0;vim dwmst
+: 1469171203:0;ls
+: 1469171209:0;info
+: 1469171230:0;iwmon
+: 1469171235:0;ipmon
+: 1469171247:0;dwmst
+: 1469171337:0;cd ../code
+: 1469171338:0;ls
+: 1469171345:0;ls cs
+: 1469171372:0;cd cs
+: 1469171376:0;ls sysctl
+: 1469171381:0;ls sysctl/sysctl
+: 1469171392:0;vim sysctl/sysctl/Program.cs
+: 1469171407:0;sysctl -h
+: 1469171445:0;ls
+: 1469171452:0;ls empties
+: 1469171455:0;cd ..
+: 1469171456:0;ls c
+: 1469171458:0;ls
+: 1469171467:0;ls fs
+: 1469171471:0;cd fs
+: 1469171474:0;ls lib
+: 1469171480:0;vim lib/lib.fs
+: 1469171525:0;cd ..
+: 1469171526:0;ls
+: 1469171531:0;lsa sandbox
+: 1469171536:0;cd sandbox
+: 1469171537:0;lsa
+: 1469171539:0;ls -la
+: 1469171543:0;ls
+: 1469171556:0;yield.exe
+: 1469171560:0;mono yield.exe
+: 1469171574:0;mono test.exe
+: 1469171578:0;mono tax.exe
+: 1469171583:0;mono tax.exe 36
+: 1469171589:0;netup
+: 1469171599:0;mono linqtest.
+: 1469171603:0;mono linqtest.exe
+: 1469171614:0;mono HelloForms.exe
+: 1469171626:0;vim bat.c
+: 1469171632:0;make bat.c
+: 1469171648:0;gcc bat.c
+: 1469171650:0;ls
+: 1469171658:0;./a.out
+: 1469171676:0;gcc tpl.c
+: 1469171680:0;./a.out
+: 1469171684:0;mono ./a.out
+: 1469171689:0;vim tpl.c
+: 1469171712:0;gcc tpl.c
+: 1469171718:0;./a.out
+: 1469171728:0;vim yield.cs
+: 1469171746:0;mono yield.exe
+: 1469171763:0;vim yield.cs
+: 1469171801:0;ls
+: 1469171819:0;ghc netup.hs
+: 1469171823:0;ls
+: 1469171831:0;rm a.out
+: 1469171840:0;rm netup
+: 1469171842:0;ghc netup.hs
+: 1469171845:0;ls
+: 1469171848:0;./netup
+: 1469171853:0;vim netup.hs
+: 1469171945:0;sudo wifi-menu
+: 1469171955:0;ping www.google.com
+: 1469171965:0;sysd
+: 1469171972:0;sysd stop netctl-auto
+: 1469171984:0;sysd list
+: 1469172008:0;sysd stop netctl-auto@wlp3s0.service
+: 1469172012:0;sudo wifi-menu
+: 1469172021:0;ping www.google.com
+: 1469172051:0;sysd list
+: 1469172077:0;sysd stop netctl-auto@wlp3s0.service
+: 1469172079:0;sudo sysd stop netctl-auto@wlp3s0.service
+: 1469172082:0;sysd list
+: 1469172094:0;sudo sysd stop netctl-auto@wlp3s0
+: 1469172097:0;sysd list
+: 1469172105:0;sudo wifi-menu
+: 1469172122:0;ping www.google.com
+: 1469172163:0;cd
+: 1469172172:0;pacman -Sy
+: 1469172194:0;pacman -Syu
+: 1469172222:0;zcl
+: 1469172507:0;cd /
+: 1469172507:0;su
+: 1469173110:0;ncmpcpp
+: 1469173115:0;zcl
+: 1469256650:0;startx
+: 1469256670:0;sudo wifi-menu
+: 1469308526:0;pacman -Ss focus-writer
+: 1469308529:0;pacman -Ss focus
+: 1469308538:0;packer -Ss focus
+: 1469308565:0;packer -S focuswriter
+: 1469308581:0;packer -Ss qt5-base
+: 1469308592:0;packer -S qt5-base qt5-multimedia
+: 1469308613:0;packer -S focuswriter
+: 1469308722:0;packer -Ss abiword
+: 1469308730:0;pacman -S abiword
+: 1469308810:0;abiword
+: 1469308814:0;zcl
+: 1469418362:0;pacman -Syu
+: 1469515034:0;htop
+: 1469520630:0;java -jar down/ATLauncher.jar
+: 1469520641:0;ls
+: 1469520654:0;mkdir atlauncher
+: 1469520674:0;mv down/ATLauncher.jar atlauncher/ATLauncher.jar
+: 1469520681:0;java -jar atlauncher/ATLauncher.jar
+: 1469583553:0;bg
+: 1469583560:0;htop
+: 1470073273:0;startx
+: 1470073537:0;ping www.google.com
+: 1470073737:0;zcl
+: 1470073904:0;ls
+: 1470073907:0;cd code
+: 1470073908:0;ls
+: 1470073909:0;cd c
+: 1470073910:0;ls
+: 1470073915:0;cd ..
+: 1470073917:0;ls sandbox
+: 1470073921:0;cd sandbocx
+: 1470073923:0;cd sandbox
+: 1470073925:0;zcl
+: 1470073926:0;ls
+: 1470073927:0;zcl
+: 1470076415:0;ls
+: 1470076433:0;vim tax.cs
+: 1470097452:0;htop
+: 1470097626:0;zcl
+: 1470097659:0;htop
+: 1470098042:0;pacman -Syu
+: 1470129873:0;pacman-key --help
+: 1470129888:0;pacman-key --u
+: 1470129894:0;sudo pacman-key --u
+: 1470129905:0;sudo pacman-key -u
+: 1470129911:0;sudo pacman-key --populate
+: 1470129916:0;sudo pacman-key -u
+: 1470129920:0;pacman -Syu
+: 1470130216:0;pacman --help
+: 1470130224:0;pacman -U --help
+: 1470130238:0;pacman -U --ignore confuse
+: 1470130243:0;pacman -Syu --ignore confuse
+: 1470130756:0;pacman --help
+: 1470130764:0;-R libirman
+: 1470130773:0;pacman -R libirman
+: 1470130777:0;pacman -R libirman lirc
+: 1470130821:0;sudo rm -rf /usr/lib/lirc/plugins/irman.so /usr/share/lirc/configs/irman.conf
+: 1470130826:0;pacman -Syu --ignore confuse
+: 1470131325:0;zcl
+: 1470131330:0;sudo pacman -Syu
+: 1470146136:0;vim
+: 1471551635:0;startx
+: 1471551688:0;ping www.google.com
+: 1471551694:0;wifi-menu
+: 1471551697:0;sudo wifi-menu
+: 1471551713:0;!
+: 1471551715:0;!!
+: 1471551719:0;sudo wifi-menu
+: 1471551737:0;reboot
+: 1471551858:0;ping www.google.com
+: 1471551861:0;startx
+: 1471552019:0;xrandr
+: 1471552061:0;xrandr --output VGA1 --mode 1920x1080
+: 1471552121:0;xrandr --output VGA1 --mode 1920x1080xrandr --output TV1 --off
+: 1471552129:0;xrandr --output TV1 --off
+: 1471552133:0;xrandr
+: 1471552257:0;xrandr --output LVDS1 --mode 1024x768 --output VGA1 --mode 1920x1080 --right-of LVDS1
+: 1471552308:0;vim .xinitrc
+: 1471552337:0;zcl
+: 1471552347:0;startx
+: 1471552363:0;htop
+: 1471552396:0;ls bin
+: 1471552404:0;tax --help
+: 1471552408:0;tax -h
+: 1471552410:0;tax
+: 1471552417:0;ls
+: 1471552419:0;cd code
+: 1471552420:0;ls
+: 1471552423:0;cd cs
+: 1471552423:0;ls
+: 1471552431:0;cd ..
+: 1471552434:0;cd fs
+: 1471552435:0;ls
+: 1471552438:0;cd tax
+: 1471552439:0;ls
+: 1471552443:0;vim tax.fs
+: 1471552527:0;uname -m
+: 1471552597:0;ls down
+: 1471552600:0;cd 
+: 1471552602:0;ls down
+: 1471552821:0;ls
+: 1471552826:0;cd down
+: 1471552828:0;unzip factorio_alpha_x64_0.13.17.tar.gz
+: 1471552842:0;ls
+: 1471552854:0;pacman -S unzip
+: 1471552861:0;unzip factorio_alpha_x64_0.13.17.tar.gz
+: 1471552869:0;tar -x factorio_alpha_x64_0.13.17.tar.gz
+: 1471552873:0;gzip 
+: 1471552876:0;gzip -h
+: 1471552885:0;gzip -d factorio_alpha_x64_0.13.17.tar.gz
+: 1471552896:0;tar -x factorio_alpha_x64_0.13.17.tar
+: 1471552905:0;tar
+: 1471552908:0;tar --help
+: 1471552932:0;tar -xf factorio_alpha_x64_0.13.17.tar
+: 1471552937:0;zcl
+: 1471552937:0;ls
+: 1471552942:0;cd factorio
+: 1471552943:0;ls
+: 1471552964:0;ls bin
+: 1471552967:0;cd ..
+: 1471553365:0;tar --help
+: 1471553383:0;gzip -d factorio_alpha_i386_0.13.17.tar.gz
+: 1471553396:0;tar -xf factorio_alpha_i386_0.13.17.tar
+: 1471553403:0;cd factorio
+: 1471553405:0;ls
+: 1471553407:0;cd bin
+: 1471553408:0;ls
+: 1471553410:0;cd i386
+: 1471553410:0;ls
+: 1471553413:0;./factorio
+: 1471553801:0;zcl
+: 1471553802:0;htop
+: 1471553809:0;zcl
+: 1471553811:0;htop
+: 1471553813:0;zcl
+: 1471553823:0;cd code
+: 1471553825:0;mkdir lua
+: 1471553827:0;cd lua
+: 1471553829:0;zcl
+: 1471553880:0;vim tax.lua
+: 1471563223:0;cd
+: 1471563224:0;zcl
+: 1471563227:0;ls bin
+: 1471563291:0;pdd
+: 1471563308:0;vim bin/pdd
+: 1471563421:0;pipes
+: 1471563434:0;ls bin
+: 1471563439:0;pstreec
+: 1471563445:0;htop
+: 1471563450:0;zcl
+: 1471563453:0;ls bin
+: 1471563476:0;sys
+: 1471563482:0;sysd
+: 1471563497:0;sysinfo
+: 1471563529:0;zcl
+: 1471563534:0;ls bin
+: 1471563542:0;tax 25
+: 1471563574:0;tp
+: 1471563577:0;tp -h
+: 1471563586:0;tp -?
+: 1471563592:0;tp -h
+: 1471563598:0;tp -t
+: 1471563610:0;tp -k
+: 1471563614:0;tp -b
+: 1471563620:0;tp -v
+: 1471563626:0;ls bin
+: 1471563634:0;sysinfo --help
+: 1471563645:0;zcl
+: 1471563647:0;cd code
+: 1471563650:0;cd cs
+: 1471563650:0;ls
+: 1471563655:0;cd sysctl
+: 1471563659:0;sysctl
+: 1471563669:0;ls
+: 1471563673:0;cd sysctl/binm
+: 1471563675:0;cd sysctl/bin
+: 1471563676:0;ls
+: 1471563679:0;cd Debug
+: 1471563680:0;ls
+: 1471563684:0;./sysctl.exe
+: 1471563690:0;./sysctl.exezcl
+: 1471563692:0;zcl
+: 1471563696:0;./sysctl.exe -h
+: 1471563700:0;./sysctl.exe -t
+: 1471563707:0;zcl
+: 1472006089:0;pacman -Ss rgb2hex
+: 1472006096:0;packer -Ss rgb2hex
+: 1472006168:0;perl -e 'printf ("%h\n", 255)'
+: 1472006175:0;perl -e 'printf ("%x\n", 255)'
+: 1472006211:0;perl -e 'printf ("%x\n", 128)'
+: 1472006213:0;zcl
+: 1472006220:0;vim rgb2hex
+: 1472006475:0;./rgb2hex {255, 255, 0}
+: 1472006493:0;./rgb2hex
+: 1472006500:0;sudo chmod +x rgb2hex
+: 1472006501:0;./rgb2hex
+: 1472006533:0;vim rgb2hex
+: 1472006545:0;mv rgb2hex rgbtohex
+: 1472006549:0;vim rgb2hex
+: 1472006692:0;printf "%x%x%x\n" 255 255 0
+: 1472006701:0;printf "%x%x%x\n" 255 00 255
+: 1472006739:0;echo "obase=16; 255 255 0" | bc
+: 1472006747:0;echo "obase=16; 255" | bc
+: 1472006751:0;echo "obase=16; 0" | bc
+: 1472006818:0;cd ..
+: 1472006820:0;ls
+: 1472006824:0;mkdir zsh
+: 1472006827:0;cd zsh
+: 1472006851:0;git clone https://github.com/majjoha/color-converter.git
+: 1472006856:0;ls
+: 1472006858:0;cd color-converter
+: 1472006859:0;ls
+: 1472006877:0;cp color-converter ~/bin/colconv
+: 1472006880:0;zcl
+: 1472006880:0;cd
+: 1472006883:0;zcl
+: 1472006894:0;colconv 255 255 0
+: 1472051157:0;startx
+: 1472106807:0;htop
+: 1472106823:0;zcl
+: 1472106826:0;alias
+: 1472106853:0;batlim
+: 1472106863:0;csi
+: 1472106943:0;zcl
+: 1472106947:0;alias
+: 1472106956:0;gitlog
+: 1472106965:0;icanhazip
+: 1472106968:0;zcl
+: 1472106979:0;icanhazip
+: 1472107011:0;zcl
+: 1472107012:0;alias
+: 1472107016:0;lsw
+: 1472107022:0;lssmall
+: 1472107046:0;zcl
+: 1472107088:0;pacman -Ss sane
+: 1472107156:0;vim /etc/sane.d/net.conf
+: 1472107225:0;ping 192.168.1.11
+: 1472107230:0;vim /etc/sane.d/net.conf
+: 1472107330:0;xsane
+: 1472107351:0;pacman -Syu
+: 1472241178:0;df
+: 1472241262:0;vim .xinitrc
+: 1472696035:0;pacman -S firefox
+: 1472697456:0;wifi-menu
+: 1472697459:0;sudowifi-menu
+: 1472697466:0;sudo wifi-menu
+: 1472697474:0;reboot
+                      : 1472697641:0;startx
+: 1474320937:0;startx
+: 1474325154:0;startx
+: 1474338418:0;startx
+: 1474351503:0;zcl
+: 1474351511:0;pacman -Syu
+: 1474351539:0;zcl
+: 1474351813:0;i3lock
+: 1474351829:0;i3lock --help
+: 1474351835:0;ls
+: 1474351838:0;ls -a
+: 1474351878:0;ls -a etc
+: 1474351884:0;zcl
+: 1474351941:0;ls -a
+: 1474351947:0;cd etc
+: 1474351949:0;ls -a
+: 1474351951:0;zcl
+: 1474351956:0;xautolock --help
+: 1474351966:0;cd ~/bin
+: 1474351968:0;ls
+: 1474352009:0;ls /usr/local/bin
+: 1474352018:0;ls /usr/bin
+: 1474352059:0;systemctl --help
+: 1474352075:0;systemctl -a
+: 1474352118:0;systemctl list-unit-files
+: 1474352126:0;systemctl list-unit-files | grep i3lock
+: 1474352141:0;cd
+: 1474352145:0;vim .xinitrc
+: 1474352181:0;pgrep xautolock
+: 1474352201:0;pkill xautolock
+: 1474352204:0;zcl
+: 1474445615:0;df
+: 1474445624:0;zcl
+: 1474445626:0;df
+: 1474445630:0;mount
+: 1474445634:0;zcl
+: 1474445662:0;fdisk -l
+: 1474445668:0;sudo fdisk -l
+: 1474445672:0;sudo fdisk
+: 1474445683:0;blkid
+: 1474445685:0;zcl
+: 1474445690:0;sudo blkid
+: 1474445693:0;zcl
+: 1474445703:0;ls /dev/disk/by-label
+: 1474445714:0;blkid
+: 1474445748:0;fdisk -l
+: 1474445751:0;sudo fdisk -l
+: 1474445759:0;blkid
+: 1474445774:0;reboot
+: 1474445845:0;zcl
+: 1474445848:0;zl
+: 1474445850:0;zcl
+: 1474445852:0;ls
+: 1474445856:0;ls iso
+: 1474445863:0;startx
+: 1474445921:0;ls bin
+: 1474445925:0;lsbin
+: 1474445927:0;ls bin
+: 1474445940:0;dget http://mirrors.rit.edu/archlinux/iso/2016.09.03/archlinux-2016.09.03-dual.iso
+: 1474445969:0;vim bin/dget
+: 1474446112:0;zcl
+: 1474446149:0;wget --progress=dot http://mirrors.rit.edu/archlinux/iso/2016.09.03/archlinux-2016.09.03-dual.iso
+: 1474446170:0;zcl
+: 1474446175:0;rm -f archlinux-2016.09.03-dual.iso.1
+: 1474446177:0;zcl
+: 1474446200:0;vim bin/dget
+: 1474446339:0;dget http://mirrors.rit.edu/archlinux/iso/2016.09.03/archlinux-2016.09.03-dual.iso
+: 1474446346:0;vim bin/dget
+: 1474446375:0;wget --progress=dot $url 2>&1 | grep --line-buffered "%" | \\
+ 15     sed -u -e "s,\.,,g" | awk '{printf("\b\b\b\b%4s", $2)}'
+: 1474446386:0;wget --progress=dot $url 2>&1 | grep --line-buffered "%" | sed -u -e "s,\.,,g" | awk '{printf("\b\b\b\b%4s", $2)}'
+: 1474446415:0;wget --progress=dot http://mirrors.rit.edu/archlinux/iso/2016.09.03/archlinux-2016.09.03-dual.iso | grep --line-buffered "%" | sed -u -e "s,\.,,g" | awk '{printf("\b\b\b\b%4s", $2)}'
+: 1474446474:0;download()\
+{\
+    local url=$1\
+    echo -n "    "\
+    wget --progress=dot $url 2>&1 | grep --line-buffered "%" | \\
+        sed -u -e "s,\.,,g" | awk '{printf("\b\b\b\b%4s", $2)}'\
+    echo -ne "\b\b\b\b"\
+    echo " DONE"\
+}
+: 1474446489:0;download http://mirrors.rit.edu/archlinux/iso/2016.09.03/archlinux-2016.09.03-dual.iso
+: 1474446557:0;vim bin/dget
+: 1474446631:0;dget http://mirrors.rit.edu/archlinux/iso/2016.09.03/archlinux-2016.09.03-dual.iso
+: 1474446638:0;vim dget
+: 1474446645:0;vim bin/dget
+: 1474446658:0;dget http://mirrors.rit.edu/archlinux/iso/2016.09.03/archlinux-2016.09.03-dual.iso archlinux.iso
+: 1474446665:0;ls
+: 1474446673:0;rm -rf archlinux-2016.09.03-dual.iso.*
+: 1474446674:0;ls
+: 1474446681:0;dget http://mirrors.rit.edu/archlinux/iso/2016.09.03/archlinux-2016.09.03-dual.iso archlinux.iso
+: 1474446694:0;ls
+: 1474446757:0;vim bin/dget
+: 1474446814:0;dget http://mirrors.rit.edu/archlinux/iso/2016.09.03/archlinux-2016.09.03-dual.iso archlinux.iso
+: 1474446822:0;vim bin/dget
+: 1474446961:0;dget http://mirrors.rit.edu/archlinux/iso/2016.09.03/archlinux-2016.09.03-dual.iso archlinux.iso
+: 1474446976:0;vim bin/dget
+: 1474447053:0;dget http://mirrors.rit.edu/archlinux/iso/2016.09.03/archlinux-2016.09.03-dual.iso archlinux.iso
+: 1474447057:0;vim bin/dget
+: 1474447107:0;local url=$1\
+local file=\
+echo -n "    Downloading $file:  "\
+wget --progress=dot $url -O $file 2>&1 | grep --line-buffered "%" | \\
+sed -u -e "s,\.,,g" | awk '{printf("%4s", $2)}'\
+#echo -ne "\b\b\b\b"\
+echo " DONE"\
+sleep $SECS\
+
+: 1474447145:0;vim bin/dget
+: 1474447195:0;local url=http://mirrors.rit.edu/archlinux/iso/2016.09.03/archlinux-2016.09.03-dual.iso\
+local file=archlinux.iso\
+echo -n "    Downloading $file:  "\
+wget --progress=dot $url -O $file 2>&1 | grep --line-buffered "%" | \\
+sed -u -e "s,\.,,g" | awk '{printf("%4s", $2)}'\
+#echo -ne "\b\b\b\b"\
+echo " DONE"\
+
+: 1474447221:0;local url=http://mirrors.rit.edu/archlinux/iso/2016.09.03/archlinux-2016.09.03-dual.iso\
+local file=archlinux.iso\
+echo -n "    Downloading $file:  "\
+wget --progress=dot $url -O $file 2>&1 | grep --line-buffered "%" | \\
+sed -u -e "s,\.,,g" | awk '{printf("%4s\n", $2)}'\
+#echo -ne "\b\b\b\b"\
+echo " DONE"\
+
+: 1474447293:0;local url=http://mirrors.rit.edu/archlinux/iso/2016.09.03/archlinux-2016.09.03-dual.iso\
+local file=archlinux.iso\
+wget --progress=dot $url -O $file 2>&1 | grep --line-buffered "%" | \\
+sed -u -e "s,\.,,g" | awk '{printf("Downloading: %4s\n", $2)}'\
+#echo -ne "\b\b\b\b"\
+echo " DONE"\
+
+: 1474447327:0;vim bin/dget
+: 1474447437:0;dget http://mirrors.rit.edu/archlinux/iso/2016.09.03/archlinux-2016.09.03-dual.iso archlinux.iso
+: 1474447449:0;zcl
+: 1474447452:0;lsblk
+: 1474447462:0;fdisk
+: 1474447464:0;fdisk -l
+: 1474447471:0;gdisk
+: 1474447477:0;parted
+: 1474447488:0;su
+: 1474449019:0;zcl
+: 1474449022:0;pacman -Syu
+: 1474449742:0;pacman -Ss pacman-color
+: 1474449750:0;packer -Ss pacman-color
+: 1474449755:0;packer -Ss pacman
+: 1474449803:0;packer -Ss pacman | grep color
+: 1474449809:0;zcl
+: 1474456929:0;pgrep xautolock
+: 1474456935:0;pkill xautolock
+: 1474456938:0;vim .xinitrc
+: 1474457975:0;pacman -S nmap samba smbclient
+: 1474458022:0;pacman -S nmap smbclient
+: 1474458045:0;smbtree -b -N
+: 1474458058:0;sudo smbtree -b -N
+: 1474458507:0;ls /
+: 1474458514:0;sudo mkdir storage
+: 1474458532:0;sudo mount -t cifs //192.168.1.2/storage /storage -o user=komrade,password=979488Tjcw,uid=komrade
+: 1474458807:0;smbclient -L 192.168.1.2 -U%
+: 1474458838:0;sudo smbtree -b -N
+: 1474458852:0;sudo smbtree --help
+: 1474458897:0;sudo mount -t cifs //192.168.1.2/storage /storage -o user=komrade,password=979488Tjcw,uid=komrade
+: 1474458900:0;ls /
+: 1474458909:0;sudo mkdir /storage
+: 1474458911:0;sudo mount -t cifs //192.168.1.2/storage /storage -o user=komrade,password=979488Tjcw,uid=komrade
+: 1474458945:0;pacman -S cifs-utils
+: 1474458951:0;sudo mount -t cifs //192.168.1.2/storage /storage -o user=komrade,password=979488Tjcw,uid=komrade
+: 1474499730:0;ssh 192.168.1.2:9794
+: 1474499771:0;ssh 192.168.1.2
+: 1474499779:0;ssh -p 9794 192.168.1.2
+: 1474499787:0;zcl
+: 1474779727:0;zcl
+: 1474779733:0;startx
+: 1474779751:0;htop
+: 1474782218:0;sudo vim /etc/locale.conf
+: 1474782278:0;sudo vim /etc/locale.gen
+: 1474782320:0;pacman -s ssh
+: 1474782324:0;pacman -S ssh
+: 1474782502:0;pacman -S openssh
+: 1474782567:0;sudo vim /etc/ssh/sshd_config
+: 1474782626:0;sudo systemctl start sshd.service
+: 1474782630:0;ipconfig
+: 1474782633:0;ip
+: 1474782639:0;ip address
+: 1474782857:0;sudo systemctl enable sshd.service
+: 1474782863:0;sudo systemctl start sshd.service
+: 1474782869:0;sudo systemctl status sshd.service
+: 1474783087:0;lsblk
+: 1474783092:0;sudo lsblk
+: 1474783265:0;cd code
+: 1474783273:0;mkdir T60_BAK
+: 1474783277:0;cd T60_BAK
+: 1474783281:0;echo "# T60" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git remote add origin https://github.com/tylerjcw/T60.git\
+git push -u origin master
+: 1474783300:0;ls
+: 1474783760:0;cd
+: 1474783762:0;ls -a
