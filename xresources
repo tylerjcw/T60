@@ -1,0 +1,43 @@
+URxvt.font: -*-bitocra13-*-*-*-*-*-*-*-*-*-*-*-*
+
+URxvt.scrollBar: false
+URxvt.background: #BFBFBF
+URxvt.foreground: #D84545
+
+URxvt.colorBD:    #808008
+URxvt.colorUL:    #A0A0A0
+URxvt.colorIT:    #686868
+
+! Lower Color number in pair is always darker
+
+!BLK
+URxvt.color0:     #303030
+URxvt.color8:     #686868
+
+!RED
+URxvt.color1:     #D84545
+URxvt.color9:     #B92626
+
+!GRN
+URxvt.color2:     #89B360
+URxvt.color10:    #3D7D12
+
+!BLU
+URxvt.color4:     #3EBBBB
+URxvt.color12:    #309191
+
+!YEL
+URxvt.color3:     #B89845
+URxvt.color11:    #98762C
+
+!CYN
+URxvt.color6:     #67BF95
+URxvt.color14:    #3BA275
+
+!MAG
+URxvt.color5:     #C396D9
+URxvt.color13:    #AC7BDE
+
+!WHT
+URxvt.color7:     #A2A2AC
+URxvt.color15:    #EFEFEF
